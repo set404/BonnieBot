@@ -1,0 +1,5 @@
+telegram.webhook-path=
+telegram.bot-name=
+telegram.bot-token=
+
+server.port=80
